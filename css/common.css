@@ -51,10 +51,11 @@ color:rgba(46, 47, 66, 1);
     list-style: none;
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
-    padding: 156px 100px;
+
+   gap: 16px;
+    
   
-    justify-content: center;
+  
   }
 
   .gallery li {
@@ -62,7 +63,7 @@ color:rgba(46, 47, 66, 1);
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     overflow: hidden;
-    margin-top: 48px;
+
   }
 
   .gallery img {
