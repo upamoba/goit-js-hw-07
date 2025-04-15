@@ -77,3 +77,22 @@
     font-size: 16px;
     cursor: pointer;
   }
+
+  .widget {
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+
+  .color {
+    font-weight: bold;
+  }
+
+  .change-color {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
